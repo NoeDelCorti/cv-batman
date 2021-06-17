@@ -1,0 +1,44 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+
+main{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* estilos header */
+
+.header{
+    background-color:#E5E5E5;
+}
+
+.logo-batman{
+    margin-left: 600px;
+    padding: 21px;
+}
+
+.title{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+.principal{
+    text-align: center; 
+}
+
+/* footer */
+
+.footer{
+    text-align: center;
+    padding: 8px;
+    background-color: #005677;
+    color: white;
+}
+
+.footer-content{
+    margin-right: 20px;
+}
+
+
+
